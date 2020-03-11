@@ -1,0 +1,10 @@
+{
+  "name": "k-mean",
+  "version": "1.0.1",
+  "description": "k-mean clustering",
+  "main": "index.js",
+  "repository": "https://github.com/Pkaran26/K-Mean-Clustering-javascript.git",
+  "author": "Prateek <kaushikprateek11@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
